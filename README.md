@@ -59,7 +59,6 @@ Void Menu is a Cheat Table (for Cheat Engine) for the game Dying Light (1) devel
 - Force Weather (Allows you to edit weather)
 - Double Day Duration (Makes daytime last 2x longer)
 - Double Night Duration (Makes nighttime last 2x longer)
-- PlayTime Boosting When Idle (Adds playtime even when AFK)
 - Instant Search Interaction (Makes searching extremely fast)
 - Silenced Firearms (Makes all guns not draw virals)
 - Increased Rate Of Fire (Makes you be able to shoot extremely fast)
